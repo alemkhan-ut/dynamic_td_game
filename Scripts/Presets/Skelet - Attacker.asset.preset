@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Skelet - Attacker.asset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 4a2387abba1f9144fae4557d0d447ad2,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _preset
+    value: 
+    objectReference: {fileID: 2655988077585873504}
+  - target: {fileID: 0}
+    propertyPath: _name
+    value: "\u0421\u043A\u0435\u043B\u0435\u0442"
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _unitType
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _avatarSprite
+    value: 
+    objectReference: {fileID: 21300000, guid: f948127b0059083408c2e90b04b3e2a8, type: 3}
+  - target: {fileID: 0}
+    propertyPath: _avatarBGSprite
+    value: 
+    objectReference: {fileID: 21300000, guid: 40dd50dac5eec2845802288ca8d7366a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: _hpBarColor.r
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarColor.g
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarColor.b
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarFillColor.r
+    value: 0.9647059
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarFillColor.g
+    value: 0.38431373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarFillColor.b
+    value: 0.81960785
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpBarFillColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bulletSprite
+    value: 
+    objectReference: {fileID: 21300000, guid: c323693c467bbb54481f4c6094c552f0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: _bulletSize
+    value: 25
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bulletSpriteColor.r
+    value: 0.9647059
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bulletSpriteColor.g
+    value: 0.38431373
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bulletSpriteColor.b
+    value: 0.81960785
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _bulletSpriteColor.a
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _currentLevel
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _hpMaxValue
+    value: 20
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _isMoveable
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _moveSpeed
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _isAttackable
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _attackDamage
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _attackDelay
+    value: 0.6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _attackSpeed
+    value: 16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _attackRange
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _attackType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _isSpellable
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _spellValue
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _spellRange
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _spellDelay
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _unitSide
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _destructionReward
+    value: 10
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2387abba1f9144fae4557d0d447ad2, type: 3}
+  m_Name: ShieldBearer - Defender
+  m_EditorClassIdentifier: 
+  _preset: {fileID: 2655988077585873504, guid: fd8df68e6f17f464897b8401821b2c49, type: 2}
+  _name: ShieldBearer-Defender
+  _unitType: 0
+  _avatarSprite: {fileID: 21300000, guid: cfdc9afd6c962b54abd8b197ced32870, type: 3}
+  _avatarBGSprite: {fileID: 21300000, guid: 5157b99d397d41c4a8fb957188fad126, type: 3}
+  _hpBarColor: {r: 1, g: 1, b: 1, a: 1}
+  _hpBarFillColor: {r: 0.7647059, g: 0.19215687, b: 0.14117648, a: 1}
+  _bulletSprite: {fileID: 21300000, guid: c323693c467bbb54481f4c6094c552f0, type: 3}
+  _bulletSize: 25
+  _bulletSpriteColor: {r: 0.7647059, g: 0.19215687, b: 0.14117648, a: 1}
+  _currentLevel: 1
+  _hpMaxValue: 200
+  _isMoveable: 0
+  _moveSpeed: 0
+  _isAttackable: 1
+  _attackDamage: 1
+  _attackDelay: 0.7
+  _attackSpeed: 10
+  _attackRange: 3
+  _attackType: 0
+  _isSpellable: 0
+  _spellValue: 0
+  _spellRange: 0
+  _spellDelay: 0
+  _unitSide: 0
+  _destructionReward: 10
